@@ -18,10 +18,10 @@ Fitur:
 
 Tampilan:
 •	Halaman SIPEBE
-![Halaman SIPEBE](assets/img/sipebe)
+![Halaman SIPEBE](assets/img/sipebe.png)
 
 •	Halaman Login
-![Halaman Login](assets/img/login_sipebe)
+![Halaman Login](assets/img/login_sipebe.png)
 
 •	Halaman Hasil Klasifikasi
-![Halaman Hasil](assets/img/hasil_sipebe)
+![Halaman Hasil](assets/img/hasil_sipebe.png)
