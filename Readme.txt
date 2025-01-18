@@ -18,10 +18,10 @@ Fitur:
 
 Tampilan:
 •	Halaman SIPEBE
-![Halaman SIPEBE](https://github.com/Munn15/sipebe/blob/main/assets/img/sipebe.png?raw=true)
+![Halaman SIPEBE](https://github.com/Munn15/sipebe/blob/main/assets/img/sipebe.png)
 
 •	Halaman Login
-![Halaman Login](assets/img/login_sipebe.png)
+![Halaman Login](https://github.com/Munn15/sipebe/blob/main/assets/img/login_sipebe.png)
 
 •	Halaman Hasil Klasifikasi
-![Halaman Hasil](assets/img/hasil_sipebe.png)
+![Halaman Hasil](https://github.com/Munn15/sipebe/blob/main/assets/img/hasil_sipebe.png)
