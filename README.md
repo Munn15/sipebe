@@ -4,24 +4,24 @@ Deskripsi
 Sistem Pelanggan Yang Berpotensi pada penjualan Gypsum "Ardian Gypsum". Menggunakan metode Naive Bayes untuk melakukan klasifikasi, tujuanya adalah membantu pemilik bisnis dalam mengklasifikasikan pelanggan berpotensi dan tidak berpotensi, sehingga dapat memberikan bonus pelanggan berpotensi dan meningkatkan kualitas layanan terhadap pelanggan. Selain itu juga Meningkatkan efektivitas strategi pemasaran dengan menggunakan hasil klasifikasi pelanggan sebagai dasar dalam pengambilan keputusan.
 
 Teknologi yang digunakan:
-•	php
-•	bootstrap
-•	mysql
-•	metode naive bayes
+* php
+* bootstrap
+* mysql
+* metode naive bayes
 
 Fitur:
-•	Login & Register
-•	Petunjuk Penggunaan
-•	Produk
-•	Tim Pengembang
-•	Hasil Klasifikasi Naive Bayes
+* Login & Register
+* Petunjuk Penggunaan
+* Produk
+* Tim Pengembang
+* Hasil Klasifikasi Naive Bayes
 
 Tampilan:
-•	Halaman SIPEBE
+* Halaman SIPEBE
 ![Halaman SIPEBE](https://github.com/Munn15/sipebe/blob/main/assets/img/sipebe.png)
 
-•	Halaman Login
+* Halaman Login
 ![Halaman Login](https://github.com/Munn15/sipebe/blob/main/assets/img/login_sipebe.png)
 
-•	Halaman Hasil Klasifikasi
+* Halaman Hasil Klasifikasi
 ![Halaman Hasil](https://github.com/Munn15/sipebe/blob/main/assets/img/hasil_sipebe.png)
