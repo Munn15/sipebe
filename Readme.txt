@@ -18,7 +18,7 @@ Fitur:
 
 Tampilan:
 •	Halaman SIPEBE
-![Halaman SIPEBE](assets/img/sipebe.png)
+![Halaman SIPEBE](https://github.com/Munn15/sipebe/blob/main/assets/img/sipebe.png)
 
 •	Halaman Login
 ![Halaman Login](assets/img/login_sipebe.png)
