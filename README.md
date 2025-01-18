@@ -17,11 +17,15 @@ Fitur:
 * Hasil Klasifikasi Naive Bayes
 
 Tampilan:
-* Halaman SIPEBE
-![Halaman SIPEBE](https://github.com/Munn15/sipebe/blob/main/assets/img/sipebe.png)
 
-* Halaman Login
-![Halaman Login](https://github.com/Munn15/sipebe/blob/main/assets/img/login_sipebe.png)
+Halaman SIPEBE
 
-* Halaman Hasil Klasifikasi
-![Halaman Hasil](https://github.com/Munn15/sipebe/blob/main/assets/img/hasil_sipebe.png)
+<img src="assets/img/sipebe.png" alt="Halaman SIPEBE" width="700px">
+
+Halaman Login
+
+<img src="assets/img/login_sipebe.png" alt="Halaman Login SIPEBE" width="700px">
+
+Halaman Hasil Klasifikasi
+
+<img src="assets/img/hasil_sipebe.png" alt="Halaman Hasil SIPEBE" width="700px">
